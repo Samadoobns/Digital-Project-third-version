@@ -1,7 +1,8 @@
-⚙️ Torque Prediction for Electric Motors using ML (Medium Dataset)
+###⚙️ Torque Prediction for Electric Motors using ML (Medium Dataset)
 This project focuses on predicting the average torque (Cmoy) of small electric motors using machine learning regression models. To improve accuracy, GridSearchCV is used as a key step to fine-tune hyperparameters and boost model performance.
 
-🔧 Key Features
+##🔧 Key Features
+
 📊 Feature engineering on raw data (log, ratios, differences)
 
 🧠 Model comparison: Random Forest, Gradient Boosting, Ridge, Lasso, etc.
